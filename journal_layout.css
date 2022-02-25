@@ -40,18 +40,7 @@ a:hover {
     color: black;
 }
 
-aside   {
-    width: 20%;
-    margin-bottom: 50%;
-    margin-top: 5px;
-    margin-right: 10px;
-    border: 5px solid #00959f;
-    padding-left: 5px;
-    background-color: #9ae0e0;
-    float: left;
-    color: #2f7b80;
-    overflow: auto;
-}
+
 
 aside ul    {
     padding-left: 15px;
